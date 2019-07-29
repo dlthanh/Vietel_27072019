@@ -9,7 +9,7 @@ img {
     vertical-align: middle;
 }
 .emag-wrapper {
-    /* background-color: #f4f4f4; */
+    background-color: #fbf3dd;
 }
 /* .emag-cover {
     padding-top: 46px;
@@ -84,12 +84,16 @@ img {
     /* color: #cccccc; */
 }
 .emag-credit {
-    margin-top: 90px;
+    margin-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 15px;
 }
 .emag-credit p {
-    font-size: 14px;
+    font-size: 16px;
+    line-height: 25px;
     margin-bottom: 0;
-    font-family: 'Gotham', sans-serif;
+    font-family: 'NotoSerif', serif;
+    font-weight: 700;
 }
 .emag-credit img {
     width: 100%;
